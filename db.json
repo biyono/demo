@@ -12,12 +12,6 @@
             "urutan": 1,
             "id": "2"
         },
-        {
-            "title": "Velit ut est ipsa.",
-            "content": "Sint perspiciatis sit dicta eligendi hic quia cupiditate ut. Quod quia excepturi alias corporis error quia molestias. Sapiente et id.\nId vel sint autem magnam. Aspernatur tempore nostrum placeat sed aliquam ut inventore dolorem voluptates. Doloribus qui magni optio voluptates sit voluptas nemo.\nSint enim aut doloribus ab consequatur quo ut voluptas explicabo. Aut ex laudantium iste illum quas vel molestias reprehenderit veniam. Cumque possimus harum et qui.",
-            "urutan": 2,
-            "id": "3"
-        },
         
     ],
     "unggulan": [
@@ -146,27 +140,7 @@
             "step": "hasil",
             "id": "2"
         },
-        {
-            "title": "Sonia Reichel",
-            "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg",
-            "kategori": "Jiwa",
-            "nama": "Tina Yolanda M.Pd",
-            "umur": 60196,
-            "jenis_kelamin": "Perempuan",
-            "dosen": "Natalia Winarsih",
-            "dokter": "Ulva Wijayanti",
-            "tingkat_kesulitan": "Mudah",
-            "penjelasan": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "tempat_lahir": "San Bernardino",
-            "tanggal_lahir": "1998-08-08",
-            "pekerjaan": "policy",
-            "keluhan_utama": "Ut distinctio sapiente alias ipsam nihil natus dolorum. Voluptatem doloremque provident vitae et aut rerum nulla illo cumque. Eligendi et quia doloribus est inventore asperiores aut provident aut. Corrupti optio perspiciatis sunt sit.",
-            "riwayat_penyakit": "Illo rerum quo ut laborum ut. Perferendis assumenda quam sed. Est voluptatem incidunt commodi. Reprehenderit qui adipisci et dignissimos eius fugit accusantium hic. Rerum magnam et est rerum qui voluptas est. Est ut optio omnis velit necessitatibus non cumque incidunt.\nQuod reiciendis sed sequi laboriosam praesentium rem nihil fugit quibusdam. Praesentium autem dolorum pariatur. Aspernatur earum odit aut quisquam tempore quia. Consequuntur id fugiat illo. Quisquam tempore suscipit laboriosam. Dolor temporibus sapiente minima cupiditate vitae quia voluptas quos quis.\nLaboriosam quas ea dolores vitae. Ab id esse consequuntur culpa quasi voluptate totam iure. Maxime nulla ab enim deserunt. Animi sed beatae at ab.",
-            "rekomendasi": 0,
-            "navigation": "diagnosis",
-            "step": "domain",
-            "id": "3"
-        },
+        
         
     ],
     
@@ -210,16 +184,7 @@
             "title":"Domain III",
             "content":"(Aktivitas / Istirahat)"
         },
-        {
-            "id":1,
-            "title":"Domain IV",
-            "content":"(Persepsi / Kognisi)"
-        },
-        {
-            "id":1,
-            "title":"Domain V",
-            "content":"(Persepsi diri)"
-        },
+       
         
 
     ]
