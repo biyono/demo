@@ -167,25 +167,5 @@
         }
         
 
-    ],
-    "diagnosis_domain":[
-        {
-            "id":1,
-            "title":"Domain I",
-            "content":"(Nutrisi)"
-        },
-        {
-            "id":1,
-            "title":"Domain II",
-            "content":"(Eliminasi dan pertukaran)"
-        },
-        {
-            "id":1,
-            "title":"Domain III",
-            "content":"(Aktivitas / Istirahat)"
-        }
-       
-        
-
     ]
 }
