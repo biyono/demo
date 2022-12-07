@@ -11,7 +11,7 @@
             "content": "Illum officia non voluptatum eveniet tempore est. Pariatur in soluta officiis facere. Ipsam odio minima at aut est.\nEt iure fuga consequuntur magnam magnam et magnam. Quo quas dolor quos aut recusandae fugit. Quia expedita et odit expedita omnis atque et.\nInventore consequatur esse dolores. Quam provident aut aspernatur sunt odit. Eius ad et aut vero.",
             "urutan": 1,
             "id": "2"
-        },
+        }
         
     ],
     "unggulan": [
@@ -139,7 +139,7 @@
             "navigation": "pengkajian",
             "step": "hasil",
             "id": "2"
-        },
+        }
         
         
     ],
@@ -164,7 +164,7 @@
         {
             "id":5,
             "title":"Ukur TB"
-        },
+        }
         
 
     ],
@@ -183,7 +183,7 @@
             "id":1,
             "title":"Domain III",
             "content":"(Aktivitas / Istirahat)"
-        },
+        }
        
         
 
